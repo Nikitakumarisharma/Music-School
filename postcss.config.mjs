@@ -6,3 +6,5 @@ const config = {
 };
 
 export default config;
+
+//no need to handle it used for tailwind css
